@@ -11,7 +11,6 @@
 1. Clona aquest repositori dintre de la carpeta `dev`
    ```bash
    git clone https://github.com/HectorPascualIesCarlesVallbona/projecte-webpack-css
-   cd <carpeta de la pràctica>
    ```
 
 2. Instal·la les dependències:
