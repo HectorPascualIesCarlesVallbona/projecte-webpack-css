@@ -1,6 +1,17 @@
 # Instruccions `advanced`
 # Webpack: SASS, Minificació, Autoprefix i Errors
 
+Webpack és un module bundler o empacador de mòduls. En termes senzills, és una eina que s'utilitza per processar i empaquetar recursos del front-end com fitxers JavaScript, CSS, HTML, imatges i altres dependències en un projecte web. Aquest empaquetament genera un o més fitxers optimitzats per al navegador, millorant el rendiment i simplificant la gestió dels recursos.
+
+## Mòduls inclosos
+- **css-loader**: Permet importar fitxers CSS directament des de JavaScript.
+- **style-loader**: Injecta el CSS processat al document HTML durant el desenvolupament.
+- **mini-css-extract-plugin**: Extreu el CSS en fitxers separats durant la compilació per a producció.
+- **autoprefixer**: Afegeix prefixos CSS per garantir compatibilitat amb navegadors antics.
+- **css-minimizer-webpack-plugin**: Minifica els fitxers CSS per reduir la mida en producció.
+- **postcss-loader**: Processa CSS amb plugins com autoprefixer.
+- **sass i sass-loader**: Permeten treballar amb fitxers SCSS o Sass.
+
 
 ## Requisits
 
